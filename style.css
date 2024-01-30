@@ -9,6 +9,7 @@ h4 {
     margin-bottom: 8px;
     font-size: 13px;
     margin-top: 15px;
+    color: #000;
 }
 #nav {
     margin-left: 15px;
@@ -51,12 +52,14 @@ body {
 }
 span {
     margin-left: 15px;
+    color: #000;
     
 }
 h2 {
     margin-left: 15px;
     margin-bottom: 15px;
     margin-top: 15px;
+    color: #000;
 }
 p {
     border-left: 3px solid #69696a;
