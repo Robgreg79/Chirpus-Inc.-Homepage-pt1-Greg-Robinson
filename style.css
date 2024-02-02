@@ -111,6 +111,7 @@ footer {
     }
     nav {
     display: flex;
+    flex-direction: row;
     justify-content: space-between;
     align-items: center;
     margin-right: 0px;
@@ -119,10 +120,18 @@ footer {
     width: auto;
     padding: 5px;
 }
-li{
-    display: inline;
-    margin: 10px;
+#nav {
+   display: flex;
+   flex-direction: row;
+   align-items: center;
 }
+.link {
+    display: flex;
+    justify-content: space-around;
+    margin-right: 10px ;
+    align-items: center;
+}
+
 
 p {
     max-width: 50%;
